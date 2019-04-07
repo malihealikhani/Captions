@@ -1,4 +1,4 @@
-# ``Caption'' as a Coherence Relation: Evidence and Implications
+# "Caption" as a Coherence Relation: Evidence and Implications
 
 
 ## Introduction
